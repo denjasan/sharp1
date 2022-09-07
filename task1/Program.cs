@@ -10,7 +10,7 @@ Console.WriteLine("System.SByte:\nMin value = {0}\nMax value = {1}\n", SByte.Min
 Console.WriteLine("System.Int16:\nMin value = {0}\nMax value = {1}\n", Int16.MinValue, Int16.MaxValue);
 Console.WriteLine("System.Int32:\nMin value = {0}\nMax value = {1}\n", Int32.MinValue, Int32.MaxValue);
 Console.WriteLine("System.Int64:\nMin value = {0}\nMax value = {1}\n", Int64.MinValue, Int64.MaxValue);
-        Console.WriteLine("System.UInt16:\nMin value = {0}\nMax value = {1}\n", UInt16.MinValue, UInt16.MaxValue);
-        Console.WriteLine("System.UInt32:\nMin value = {0}\nMax value = {1}\n", UInt32.MinValue, UInt32.MaxValue);
-        Console.WriteLine("System.UInt64:\nMin value = {0}\nMax value = {1}\n", UInt64.MinValue, UInt64.MaxValue);
+Console.WriteLine("System.UInt16:\nMin value = {0}\nMax value = {1}\n", UInt16.MinValue, UInt16.MaxValue);
+Console.WriteLine("System.UInt32:\nMin value = {0}\nMax value = {1}\n", UInt32.MinValue, UInt32.MaxValue);
+Console.WriteLine("System.UInt64:\nMin value = {0}\nMax value = {1}\n", UInt64.MinValue, UInt64.MaxValue);
 
